@@ -75,7 +75,7 @@ def plotar(grafo, coords, caminho=None, inicio=None, destino=None):
 
     plt.legend(handles=legend_elements)
 
-    plt.title("A* com Tipos de Via (Entrada Dinâmica)")
+    plt.title("Planejador de Viagens")
     plt.grid(True)
 
     plt.savefig("rota.png")
