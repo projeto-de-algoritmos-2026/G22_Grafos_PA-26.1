@@ -42,13 +42,12 @@ A ordenação topológica é utilizada para garantir que a ordem de visita respe
 # Tela de resultado
 ![Melhor Rota](./assets/melhor_rota.png)
 
+### Vídeo do trabalho
+
+[Clique aqui para assistir à demonstração](https://youtu.be/IPuYcgSVxe0)
+
 ## Instalação 
 Linguagem: Python<br>
-
-## Apresentação do projeto 
-
-[https://youtu.be/IPuYcgSVxe0](https://youtu.be/IPuYcgSVxe0)
-
 
 ### Pré-requisitos
 
