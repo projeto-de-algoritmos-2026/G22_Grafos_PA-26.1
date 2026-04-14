@@ -28,5 +28,8 @@ build/
 dist/
 *.egg-info/
 
-# Imagens geradas 
-*.png
+# Ignorar PNGs da raiz
+/*.png
+
+# EXCEÇÃO: permitir imagens da pasta assets
+!assets/*.png

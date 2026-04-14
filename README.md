@@ -34,16 +34,21 @@ A ordenação topológica é utilizada para garantir que a ordem de visita respe
 ## Screenshots
 
 # Tela inicial
-![Escolha](assets/escolha.png)
+![Escolha](./assets/escolha.png)
 
 # Tela de execução 
-![Início](assets/inicio.png)
+![Início](./assets/inicio.png)
 
 # Tela de resultado
-![Melhor Rota](assets/melhor_rota.png)
+![Melhor Rota](./assets/melhor_rota.png)
 
 ## Instalação 
 Linguagem: Python<br>
+
+## Apresentação do projeto 
+
+[https://youtu.be/IPuYcgSVxe0](https://youtu.be/IPuYcgSVxe0)
+
 
 ### Pré-requisitos
 
